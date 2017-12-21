@@ -208,9 +208,9 @@ img {
 
 #header .logo {
   float: left;
-  height: 62px;
+  height: 60px;
   margin-right: 25px;
-  padding: 18px 0;
+  padding: 20px 0;
 }
 
 #header .container {
@@ -9951,7 +9951,7 @@ figure {
     padding: 0;
   }
   #header .logo {
-    margin-left: 5px;
+    margin-left: 2px;
   }
   .owl-slide .carousel-caption .carousel-title {
     font-size: 30px;
@@ -10084,7 +10084,7 @@ figure {
   #header .logo,
   #header .navbar,
   #header {
-    height: 50px;
+    height: 20px;
   }
   #header .nav > ul > li > a {
     line-height: 50px;
